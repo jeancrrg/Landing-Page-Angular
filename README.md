@@ -1,27 +1,64 @@
-# ProjetoLandingPage
+# 📱 Landing Page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+Projeto de criação de layout de uma Landing Page com inspiração em projetos da Fernanda Kipper para aprimorar e adquirir novos conhecimentos em Angular. 
 
-## Development server
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Ambiente de desenvolvimento
 
-## Code scaffolding
+O código fonte se encontra no repositório do Github:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+https://github.com/jeancrrg/Landing-Page-Angular.git
 
-## Build
+## 💻 Tecnologias utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+>Html → Linguagem de marcação de Hipertexto
 
-## Running unit tests
+>Scss → Folha de estilo dos componentes
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+>Typescript → Linguagem de programação
 
-## Running end-to-end tests
+>Angular 17 → Framework
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+>Node 20.14.10 → Framework
 
-## Further help
+>Npm 10.7.0 → Gerenciador de pacotes do Node
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 📝 Requisitos
+
+>Versão 17 do Angular
+
+>Versão do Node compatível a versão do Angular
+
+## 🛠️ Como rodar o projeto
+
+Ao importar o projeto, antes de subir localmente é necessário instalar as bibliotecas do projeto, para isso basta executar o seguinte comando no terminal:
+
+```properties
+npm install
+```
+
+Logo após a instalação das bibliotecas basta executar o seguinte comando para subir localmente:
+
+```properties
+npm start
+```
+
+Feito isso, abra o projeto no navegador:
+
+```properties
+http://localhost:4200/
+```
+
+## 📌 Sobre a Landing Page
+
+Esta Landing Page foi criado com o intuito de aprimorar os conhecimentos em Angular. Feita no Figma antes de ser criada diretamente no Angular, esta landing page conta com um ótimo layout inclusive com sua devida responsividade para mobile.
+
+![Layout-plataforma](src/assets/images/landing-page.png)
